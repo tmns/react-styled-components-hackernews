@@ -1,3 +1,11 @@
+This is my work from following along with Karl Hadwen's tutorial on React (more specifically the use of React Memo, which I haven't yet experimented with), Styled Components, Axios, and React Testing Lib. It makes use of the Hackernews API to fetch stories and display them to the end-user, along with infinite scroll! 
+
+You can watch the video tut here (it's pretty great!): https://www.youtube.com/watch?v=7DLRJj1YjvQ. 
+
+Below is the good ol' CRA README.
+
+---------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
