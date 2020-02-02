@@ -13,6 +13,15 @@
     "styled-components": "^5.0.0"
   },
 	"jest": {
+		"collectCoverageFrom": [
+			"src/**/*.js",
+			"!src/index.js",
+			"!src/serviceWorker.js",
+			"!src/hooks/*.js",
+			"!src/selectors/*.js",
+			"!src/mappers/*.js",
+			"!src/utils/*.js"
+		],
 		"coverageThreshold": {
 			"global": {
 				"branches": 95,
